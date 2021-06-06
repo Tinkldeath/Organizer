@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/countdownlogs">
+        <file>countdowns.log</file>
+    </qresource>
+    <qresource prefix="/eventlogs">
+        <file>events.log</file>
+    </qresource>
+    <qresource prefix="/src"/>
+    <qresource prefix="/">
+        <file>src/icon.png</file>
+        <file>src/icon.ico</file>
+    </qresource>
+</RCC>
